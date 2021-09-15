@@ -12,5 +12,5 @@ tags:
 
 ## Hello World
 
-Hello World~
+This is the day I set up my personal website! 
 
