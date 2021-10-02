@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  title: "Sailorlqh (Qinhang (Andrew) Li)",
+  title: "Sailorlqh (Qinhan Li)",
   description: "Qinhang's blog, powered by VuePress, themed by Gungnir.",
   head: [
     ["link", { rel: "icon", href: "/img/logo.svg" }],
@@ -25,11 +25,6 @@ module.exports = {
     },
     searchIcon: "ri-search-2-line",
     codeTheme: "gungnir-dark",
-    // rss: {
-    //   site_url: "https://zxh.io",
-    //   copyright: "Renovamen 2018-2021",
-    //   count: 20
-    // },
     comment: {
       owner: "This-is-an-Apple",
       repo: "gitalk-comments",
