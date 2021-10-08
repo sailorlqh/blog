@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  title: "Sailorlqh (Qinhan Li)",
+  title: "Sailorlqh (Qinhang Li)",
   description: "Qinhang's blog, powered by VuePress, themed by Gungnir.",
   head: [
     ["link", { rel: "icon", href: "/img/logo.svg" }],
